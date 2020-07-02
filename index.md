@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Bienvenue dans mon blog
 
-I'm glad you are here. I plan to talk about ...
+Très content d'être là avec vous pour parler digital
